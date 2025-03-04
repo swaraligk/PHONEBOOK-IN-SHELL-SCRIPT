@@ -43,7 +43,7 @@ This project utilizes:
 
 ### 📸 Screenshots  
 
-# ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_1.png)
+# ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_1_new.png)
 # ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_2.png)
 # ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_3.png)
 
