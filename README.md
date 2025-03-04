@@ -20,7 +20,7 @@ The primary goal of this project is to implement a **lightweight, user-friendly,
 - User Interface: **Command-line Interface (CLI)**
   
 
-### 🏗️ Proposed System  
+### 📝 Proposed System  
 This project utilizes:  
 - **Bash Shell Scripting** for execution.  
 - **File Handling** to store contacts persistently.  
