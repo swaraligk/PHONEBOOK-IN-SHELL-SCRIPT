@@ -43,9 +43,9 @@ This project utilizes:
 
 ### 📸 Screenshots  
 
-# ![LMS_Screenshot](LMS_Screenshot_1.png)
-# ![LMS_Screenshot](LMS_Screenshot_2.png)
-# ![LMS_Screenshot](LMS_Screenshot_3.png)
+# ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_1.png)
+# ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_2.png)
+# ![PMS_ShellScript_Screenshot](PMS_ShellScript_Screenshot_3.png)
 
 
 ### 🛠️ Future Improvements  
