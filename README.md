@@ -1,5 +1,5 @@
 
-### 📞 Phonebook Management System in Shell Script  
+# 📞 Phonebook Management System in Shell Script  
 
 ### 📌 Introduction  
 The **Phonebook Management System** is a simple and efficient Shell Script that allows users to **store, search, update, and delete contacts** from a phonebook file. It provides a command-line interface for managing contact details with ease.  
